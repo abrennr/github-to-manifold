@@ -9,3 +9,5 @@ There are two things I want to do in Manifold, that I don’t know if we can do 
 In all this, I envision Manifold moving toward being more of an authoring platform, but one that is very, very different from Editoria. The goal would not be to recreate the word > epub traditional press publication workflow, because tools already exist for that—rather the goal would be to build an authoring tool that was “press compatible” but that was very much geared toward digital humanists and scholars, and embraced the kinds of interactivity that are pretty easy with modern javascript—something that gave them an authoring platform that went beyond word, rather than tried to replace it.
 
 If we were to write a new grant proposal at some point, I think I would try to present the ease-of-installation and hosting work that I talked about today as very closely tied to this vision above, and as a holistic step toward making Manifold a more powerful tool for scholars.
+
+![dog](./dog.jpg "Dog")
