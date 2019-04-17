@@ -1,0 +1,10 @@
+meta:
+  title: Manifold Thoughts
+  language: English
+  description: Zach's Thoughts about Manifold
+  creators:
+    - name: Zach Davis
+toc:
+  - label: Focus on the Reader
+    source_path: reader.md
+    start_section: true
