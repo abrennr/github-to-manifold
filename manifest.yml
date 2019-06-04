@@ -8,3 +8,6 @@ toc:
   - label: Focus on the Reader
     source_path: reader.md
     start_section: true
+  - label: Google Doc 1
+    source_path: https://docs.google.com/document/d/1LibU9ACTyHZ20Z9nzzReKiSwdt1i5yiNUovL8tO2nrE/edit?usp=sharing
+    
