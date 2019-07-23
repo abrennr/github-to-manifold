@@ -15,7 +15,7 @@ toc:
     children:
       - label: An incredibly condensed look at the development of open civic data in the United States
       source_path: context-and-concepts/an-incredibly-condensed-look-at-the-development-of-open-civic-data-in-the-united-states.md
-      - label: Ways of thinking about data: Open Data, Civic Data
+      - label: Ways of thinking about data Open Data, Civic Data
       source_path: context-and-concepts/ways-of-thinking-about-data-open-data-civic-data.md
       - label: Defining a Data Intermediary
       source: context-and-concepts/defining-a-data-intermediary.md
