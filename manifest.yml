@@ -8,7 +8,7 @@ toc:
   - label: Introduction
     source_path: README.md
     start_section: true
-  - label: Aboute
+  - label: About
     source_path: about.md
   - label: Context and Concepts
     source_path: context-and-concepts/README.md
