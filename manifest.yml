@@ -1,21 +1,29 @@
-meta:
-  title: Civic Switchboard Guide
+--- 
+meta: 
+  creators: 
+    - 
+      name: "Civic Switchboard Team"
+  description: "Connecting Libraries and Community Information Networks"
   language: English
-  description: Connecting Libraries and Community Information Networks
-  creators:
-    - name: Civic Switchboard Team
-toc:
-  - label: Introduction
+  title: "Civic Switchboard Guide"
+toc: 
+  - 
+    label: Introduction
     source_path: README.md
     start_section: true
-  - label: About
+  - 
+    label: About
     source_path: about.md
-  - label: Context and Concepts
+  - 
+    label: "Context and Concepts"
     source_path: context-and-concepts/README.md
-    children:
-      - label: An incredibly condensed look at the development of open civic data in the United States
-      source_path: context-and-concepts/an-incredibly-condensed-look-at-the-development-of-open-civic-data-in-the-united-states.md
-      - label: Ways of thinking about data Open Data, Civic Data
-      source_path: context-and-concepts/ways-of-thinking-about-data-open-data-civic-data.md
-      - label: Defining a Data Intermediary
-      source: context-and-concepts/defining-a-data-intermediary.md
+    children: 
+      - 
+        label: "An incredibly condensed look at the development of open civic data in the United States"
+        source_path: context-and-concepts/an-incredibly-condensed-look-at-the-development-of-open-civic-data-in-the-united-states.md
+      - 
+        label: "Ways of thinking about data Open Data, Civic Data"
+        source_path: context-and-concepts/ways-of-thinking-about-data-open-data-civic-data.md
+      - 
+        label: "Defining a Data Intermediary"
+        source: context-and-concepts/defining-a-data-intermediary.md
